@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="container" style="width:500px">
+
+    <div id="header" style="background-color:#FBA700;">
+        <h1 style="margin-bottom:0;">线下追星行程查询</h1></div>
+
+    <div id="menu" style="background-color:#DFF700;height:300px;width:150px;float:right;">
+        <b>菜单</b><br>
+        演员<br>
+        日韩爱豆<br>
+        内娱爱豆<br>
+        欧美爱豆</div>
+
+    <div id="content" style="background-color:#AAFEEE;height:300px;width:350px;float:left;">
+        <br>   <br>欢迎来到追星小天地</div>
+    <div id="footer" style="background-color:#DDB800;clear:both;text-align:center;">
+        版权 © wuxiaohao.com</div>
+
+</div>
+</body>
+</html>           
